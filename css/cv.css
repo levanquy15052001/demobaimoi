@@ -1,0 +1,15 @@
+body{
+    margin: 0 auto;
+    width: 800px;
+   
+}
+.tong{
+    width: 100%;
+    background-color: #373741;
+    border-radius: 0.5%;
+    height: 950px;
+}
+.img{
+    margin-top: 18px;
+    margin-right: 26px;
+}
